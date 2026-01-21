@@ -1,0 +1,7 @@
+{
+  "name": "Arkadex Gaming Platform",
+  "description": "A high-performance gaming platform for tournament management, player profiles, and faction-based competition, featuring a neon-cyberpunk aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
