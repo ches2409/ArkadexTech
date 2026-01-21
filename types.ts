@@ -9,6 +9,7 @@ export enum View {
 export interface Player {
   id: string;
   tag: string;
+  email: string;
   level: number;
   rank: string;
   wins: number;

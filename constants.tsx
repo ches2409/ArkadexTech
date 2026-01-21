@@ -4,6 +4,7 @@ import { Player, Tournament, Match } from './types';
 export const MOCK_PLAYER: Player = {
   id: '#8291',
   tag: 'KaosMaster99',
+  email: 'kaos@arkadex.net',
   level: 42,
   rank: 'Diamond II',
   wins: 1248,
